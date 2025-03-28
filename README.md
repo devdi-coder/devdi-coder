@@ -14,4 +14,4 @@
 
 </div><br/>
 
-Apaixonado por telecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas.
+Apaixonado por tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas.
